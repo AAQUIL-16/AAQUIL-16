@@ -24,7 +24,7 @@ I enjoy taking projects from an initial problem statement through design, implem
 | Project | What it does | Key technologies |
 |---|---|---|
 | **PGPilot** | Commute-aware PG discovery with trust-adjusted reviews, transparent costs, and personalized ranking | React, Node.js, Express, PostgreSQL, PostGIS |
-| **SmartSpotVIT / StudySpotVIT** | Smart library seat monitoring and recommendations using occupancy and persistent noise detection | ESP32, IoT sensors, Firebase, Android |
+| **StudySpotVIT** | Smart library seat monitoring and recommendations using occupancy and persistent noise detection | ESP32, IoT sensors, Firebase, Android |
 | **VIT Smart Shuttle** | Real-time campus shuttle location tracking and ETA-focused passenger experience | ESP32, GPS, LTE, Firebase, Flutter |
 | **VitSecureDrive** | File scanning and encrypted cloud storage with protected key handling | Python, Flask, AES-GCM, RSA, Google Drive API |
 | **OralSense AI** | Research-oriented oral lesion image classification and model explainability | Python, Deep Learning, Grad-CAM |
@@ -33,7 +33,7 @@ I enjoy taking projects from an initial problem statement through design, implem
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java · Python · JavaScript · SQL · HTML · CSS
+**Languages:** Java · Python · JavaScript · SQL · HTML · CSS · C · C++
 
 **Frontend:** React · Tailwind CSS · Flutter
 
